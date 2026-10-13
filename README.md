@@ -207,6 +207,6 @@ COVID-19-Impact-Testing-Vaccination-India/
 
 ## 👤 Author
 
-**Naresh Alakunta**
+**Jinukuntla Prasanna**
 
 *Data Analyst | Data Science Enthusiast*
